@@ -1,0 +1,19 @@
+.footerItem {
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.footerItem:hover {
+  text-decoration: underline;
+  color: #4282ad;
+}
+
+.authority {
+  position: absolute;
+  left: 50%;
+  top: 98%;
+  font-weight: bold;
+  transform: translate(-50%, -50%);
+  float: left;
+}
